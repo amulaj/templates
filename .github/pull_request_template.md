@@ -1,5 +1,3 @@
-# Pull request
-
 ## Description
 What does this change do?
 
