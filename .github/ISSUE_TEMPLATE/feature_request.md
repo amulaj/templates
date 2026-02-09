@@ -4,11 +4,7 @@ about: Suggest an idea or enhancement
 labels: [enhancement]
 ---
 
-# Feature request
-
-Thanks for the suggestion. Please fill out the sections below.
-
-## Summary
+# Feature request summary
 A clear, concise description of the feature.
 
 ## Problem to solve

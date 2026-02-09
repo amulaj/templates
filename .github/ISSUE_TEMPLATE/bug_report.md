@@ -4,11 +4,7 @@ about: Report a problem so we can fix it
 labels: [bug]
 ---
 
-# Bug report
-
-Thanks for taking the time to report a bug. Please fill out the sections below.
-
-## Summary
+# Bug report summary
 A clear, concise description of the problem.
 
 ## Steps to reproduce
